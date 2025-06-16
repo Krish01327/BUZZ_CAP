@@ -8,14 +8,15 @@ TagManager:
   - UseJump
   - Stick
   - End
+  - SecondStick
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - triangle
   - Water
   - UI
-  - 
+  - circle
   - 
   - 
   - 
@@ -44,6 +45,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: triangle
+    uniqueID: 110255225
+    locked: 0
+  - name: circle
+    uniqueID: 2704304033
     locked: 0
   m_RenderingLayers:
   - Default
