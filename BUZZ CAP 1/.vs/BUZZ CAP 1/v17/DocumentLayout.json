@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|c:\\users\\jhakr\\downloads\\budweiser\\buzz cap 1\\assets\\scripts\\capcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\capcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|c:\\users\\jhakr\\downloads\\budweiser\\buzz cap 1\\assets\\scripts\\busrtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\busrtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\assets\\scripts\\endpanlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\endpanlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\NextScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C1D620-095D-6C4A-9CE0-1323AFA14F84}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\NextScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapController.cs",
+              "DocumentMoniker": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\CapController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CapController.cs",
+              "ToolTip": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\CapController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CapController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:38:50.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EndPanleController.cs",
+              "DocumentMoniker": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\EndPanleController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EndPanleController.cs",
+              "ToolTip": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\EndPanleController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EndPanleController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T09:27:33.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NextScene.cs",
+              "DocumentMoniker": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\NextScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextScene.cs",
+              "ToolTip": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\NextScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T08:38:12.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BusrtController.cs",
+              "DocumentMoniker": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\BusrtController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BusrtController.cs",
+              "ToolTip": "C:\\Users\\jhakr\\Downloads\\BudWeiser\\BUZZ CAP 1\\Assets\\Scripts\\BusrtController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BusrtController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAQwHgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T11:17:28.398Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
